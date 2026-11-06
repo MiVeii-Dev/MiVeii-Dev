@@ -13,21 +13,20 @@
 ### 🧬 About Me (The Lore)
 - 💻 **Current Status:** Lagi sibuk ngeliatin error sambil nanya ke StackOverflow.
 - 🎧 **Vibe Coding:** Ditemani lo-fi beats / random playlist yang bikin fokus.
-- 🧠 **Learning:** Lagi mendalami tech stack modern dan nyoba bikin project random (semoga) gak mangkrak di tengah jalan.
-- ⚡ **Fun Fact:** Bisa ngetik fast gacuma pas panik doang, walau ujungnya typo
+- 🧠 **Learning:** Lagi mendalami Python & JavaScript buat nyoba bikin project baru (semoga) gak mangkrak di tengah jalan.
+- ⚡ **Fun Fact:** Bisa ngetik fast walau typo wkwk
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-> *Bukan berarti jago semua, tapi minimal pernah "Hello World" di sini ;v*
+> *Fokus di jalur Python & JavaScript, bahasa lain nyusul sambil jalan!*
 
 <div align="center">
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` `HTML/CSS` |
-| **Frameworks** | `React.js` `Next.js` `Node.js` `Express` |
-| **Database & Tools** | `Git` `MongoDB` `PostgreSQL` `TailwindCSS` `Docker` |
+| **Main Languages** | `JavaScript` `Python` `HTML/CSS` |
+| **Frameworks & Tools** | `Node.js` `Git` `TailwindCSS` `VS Code` |
 
 </div>
 
