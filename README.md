@@ -11,15 +11,15 @@
 ---
 
 ### 🧬 About Me (The Lore)
-- 💻 **Current Status:** Lagi sibuk ngeliatin error sambil nanya ke AI & StackOverflow.
+- 💻 **Current Status:** Lagi sibuk ngeliatin error sambil nanya ke StackOverflow.
 - 🎧 **Vibe Coding:** Ditemani lo-fi beats / random playlist yang bikin fokus.
-- 🧠 **Learning:** Lagi mendalami tech stack modern dan nyoba bikin project yang (semoga) gak mangkrak di tengah jalan.
-- ⚡ **Fun Fact:** Bisa ngetik cepet pas panik doang, sisanya typo mulu.
+- 🧠 **Learning:** Lagi mendalami tech stack modern dan nyoba bikin project random (semoga) gak mangkrak di tengah jalan.
+- ⚡ **Fun Fact:** Bisa ngetik fast gacuma pas panik doang, walau ujungnya typo
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-> *Bukan berarti jago semua, tapi minimal pernah "Hello World" di sini.*
+> *Bukan berarti jago semua, tapi minimal pernah "Hello World" di sini ;v*
 
 <div align="center">
 
