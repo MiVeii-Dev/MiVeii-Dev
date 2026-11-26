@@ -11,15 +11,15 @@
 ---
 
 ### 🧬 About Me (The Lore)
-- 💻 **Current Status:** Lagi sibuk ngeliatin error sambil nanya ke StackOverflow.
-- 🎧 **Vibe Coding:** Ditemani lo-fi beats / random playlist yang bikin fokus.
-- 🧠 **Learning:** Lagi mendalami Python & JavaScript buat nyoba bikin project baru (semoga) gak mangkrak di tengah jalan.
+- 💻 **Current Status:** sibuk liatin error sambil nanya ke StackOverflow wkwkwk.
+- 🎧 **Vibe Coding:** Ditemani lo-fi beats /  random playlist ,kenapa random? karna malas bikin playlist sendiri. gampang beradaptasi juga
+- 🧠 **Learning:** Lagi mendalami Python & belajar keras JavaScript buat nyoba bikin project baru (semoga) gak mangkrak di tengah jalan.
 - ⚡ **Fun Fact:** Bisa ngetik fast walau typo wkwk
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-> *Fokus di jalur Python & JavaScript, bahasa lain nyusul sambil jalan!*
+> *Fokus di jalur Python, bisa javascript tipis tipis dan masih mendalami.. sedangkan bahasa pemrograman lain? nyusul *
 
 <div align="center">
 
