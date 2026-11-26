@@ -43,7 +43,7 @@
 ---
 
 ### 🎵 Vibe Check / Connect With Me
-Mau ngobrol, kolab project, atau sekadar mabar? Gas aja!
+Mau ngobrol? inbox me for my discord , project Collab? soon
 
 [![TikTok](https://img.shields.io/badge/TikTok-viirey2-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@viirey2)
 [![GitHub](https://img.shields.io/badge/GitHub-MiVeii--Dev-181717?style=for-the-badge&logo=github)](https://github.com/MiVeii-Dev)
